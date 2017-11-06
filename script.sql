@@ -1064,3 +1064,5 @@ REFERENCES [dbo].[TicketEmergencia] ([IdTicketEmergencia])
 GO
 ALTER TABLE [dbo].[Triaje] CHECK CONSTRAINT [FK_Triaje_TicketEmergencia]
 GO
+
+--Commit de Prueba
